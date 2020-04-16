@@ -31,7 +31,8 @@ Objetivo: diseñar en una herramienta tecnológica un producto interactivo que i
         - Texto
         - Muestras de videos
 ### Justificación de las decisiones de diseño
-	- Seccion por sección, razón del temario por la cual se selecionó ese acomodo/icono/imagen/texto. Si no está justificado y no parece tener sentido en el resto de la página, se restará del puntaje final.
+	- Seccion por sección, razón del temario por la cual se selecionó ese acomodo/icono/imagen/texto. 
+    Si no está justificado y no parece tener sentido en el resto de la página, se restará del puntaje final.
 
 ___
 
@@ -49,7 +50,7 @@ ___
 
 # ¿Qué cliente escoger?
 
-[] No puede ser un familiar directo
-[] Debe tener un negocio andando
-[] El negocio debe tener al menos 3 productos/servicios diferentes
-[] Debe tener la posibilidad de ofrecer productos/servicios digitales
+[ ] No puede ser un familiar directo
+[ ] Debe tener un negocio andando
+[ ] El negocio debe tener al menos 3 productos/servicios diferentes
+[ ] Debe tener la posibilidad de ofrecer productos/servicios digitales
