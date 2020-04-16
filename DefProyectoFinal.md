@@ -50,7 +50,7 @@ ___
 
 # ¿Qué cliente escoger?
 
- [ ] No puede ser un familiar directo
- [ ] Debe tener un negocio andando
- [ ] El negocio debe tener al menos 3 productos/servicios diferentes
- [ ] Debe tener la posibilidad de ofrecer productos/servicios digitales
+- [ ] No puede ser un familiar directo
+- [ ] Debe tener un negocio andando
+- [ ] El negocio debe tener al menos 3 productos/servicios diferentes
+- [ ] Debe tener la posibilidad de ofrecer productos/servicios digitales
