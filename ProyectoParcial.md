@@ -1,15 +1,16 @@
 # Proyecto parcial
 
+## Fecha de Entrega: 30 - abril - 2020
 Para el proyecto parcial desarollarás la interface de uno de los sigientes casos:
 
---- 
+---
 - Aprender sobre la gravedad y sus ecuaciones
 	- Se deben incluir las bases históricas
     - Habrá que presentar videos con las explicaciones de al menos dos expertos
     - Se debe hablar de gravitación en la Tierra y en el espacio
     - Debe existir un pequeño examen para los usuarios
     - Debe permitir que los usuarios "posteen" o dejen algún tipo de contenido
---- 
+---
 - Presentar una nueva película (rediseño de sitio de película por estrenar)
 	- Se debe incluir el elenco principal
     - Hay que hablar del guión literario y en general la narrativa
@@ -20,14 +21,14 @@ Para el proyecto parcial desarollarás la interface de uno de los sigientes caso
 - Explicar lo que está pasando con el CORONAVIRUS
 	- La información deberá ser reciente y permitir que las personas tomen este sitio como una referencia para el futuro
     - Debe incluirse la mejor explicación posible de por qué se dio, por qué no hay cura y cuáles son los efectos
-    - Los usuarios deben poder dejar contenido 
+    - Los usuarios deben poder dejar contenido
     - Hablar del caso de México en particular
     - Debe haber multimedia orientada a la explicación
 ---
 
 - Página de funeraria en línea con e-commerce
 - Se debe presentar la funeraria como empresa
-- Hay que colocar los diferente planes 
+- Hay que colocar los diferente planes
 - Debe permitir que los usuarios hagan registro y login para la compra de paquetes
 - Debe permitir que si el usuario que falleció es quien tenía la cuenta, se pueda acceder por algún familiar
 - Generar todo el proceso de compra de los diferentes productos incluyendo ataudes
@@ -39,8 +40,8 @@ Para el proyecto parcial desarollarás la interface de uno de los sigientes caso
 ```
 No se permiten entregas extemporáneas
 ```
-	
-- El PDF deberá estar justificado. En cada elemento deberá existir al menos un concepto. 
+
+- El PDF deberá estar justificado. En cada elemento deberá existir al menos un concepto.
 - Los temas que deberán existir (el menos en 2 justificaciones) son:
 	* Experiencia de usuario
     * Usabilidad
@@ -52,7 +53,7 @@ No se permiten entregas extemporáneas
   ```
   No contar con al menos 2 referencias a algún tema supone un 10% menos de la calificación (sumables por cada tema no incluido)
   ```
-- No se evaluará el componente estético de la solución pero si la inclusión de imágenes e iconos que demuestren los conceptos. 
+- No se evaluará el componente estético de la solución pero si la inclusión de imágenes e iconos que demuestren los conceptos.
 
 
 La calificación se integrará por:
@@ -60,7 +61,7 @@ La calificación se integrará por:
 - 20% Inclusión de imágenes e iconos finales/demostrativos
 - 10% Entrega en PDF en Facebook
 
-Esta calificación se convertirá en un 70% del parcial, siendo el resto, las tareas dejadas en la plataforma. 
+Esta calificación se convertirá en un 70% del parcial, siendo el resto, las tareas dejadas en la plataforma.
 Se tomarán en cuenta:
 - 6 actividades de la Unidad 5
 
