@@ -27,12 +27,12 @@ Para el proyecto parcial desarollarás la interface de uno de los sigientes caso
 ---
 
 - Página de funeraria en línea con e-commerce
-- Se debe presentar la funeraria como empresa
-- Hay que colocar los diferente planes
-- Debe permitir que los usuarios hagan registro y login para la compra de paquetes
-- Debe permitir que si el usuario que falleció es quien tenía la cuenta, se pueda acceder por algún familiar
-- Generar todo el proceso de compra de los diferentes productos incluyendo ataudes
-- Puedes utilizar como base de productos este sitio: [Funerarias Gayosso](https://www.gayosso.com/?gclid=CjwKCAjw-YT1BRAFEiwAd2WRtjnL5_z93PyrzvhMy2ZNbWAkhlovWkJz1pcu8uIPFTKA0kNE8672TBoCtRYQAvD_BwE)
+	- Se debe presentar la funeraria como empresa
+	- Hay que colocar los diferente planes
+	- Debe permitir que los usuarios hagan registro y login para la compra de paquetes
+	- Debe permitir que si el usuario que falleció es quien tenía la cuenta, se pueda acceder por algún familiar
+	- Generar todo el proceso de compra de los diferentes productos incluyendo ataudes
+	- Puedes utilizar como base de productos este sitio: [Funerarias Gayosso](https://www.gayosso.com/?gclid=CjwKCAjw-YT1BRAFEiwAd2WRtjnL5_z93PyrzvhMy2ZNbWAkhlovWkJz1pcu8uIPFTKA0kNE8672TBoCtRYQAvD_BwE)
 ---
 
 ## Entrega
