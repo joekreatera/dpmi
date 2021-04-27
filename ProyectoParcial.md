@@ -36,7 +36,7 @@ Para el proyecto parcial desarollarás la interface de uno de los sigientes caso
 ---
 
 ## Entrega
-- La entrega será durante la clase habiendo subido el PDF en la Unidad 6: [Examen parcial](https://www.facebook.com/groups/itesmdpmi2020/learning_content/?filter=1535070500003893) (Requiere login)
+- La entrega será durante la clase habiendo subido el PDF en la actividad correspondiente. 
 ```
 No se permiten entregas extemporáneas
 ```
