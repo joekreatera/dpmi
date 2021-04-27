@@ -1,6 +1,6 @@
 # Proyecto parcial
 
-## Fecha de Entrega: 30 - abril - 2020
+## Fecha de Entrega: 7 - mayo - 2021
 Para el proyecto parcial desarollarás la interface de uno de los sigientes casos:
 
 ---
