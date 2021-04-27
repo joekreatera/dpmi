@@ -59,7 +59,7 @@ No se permiten entregas extemporáneas
 La calificación se integrará por:
 - 60% justificación de temas
 - 20% Inclusión de imágenes e iconos finales/demostrativos
-- 10% Entrega en PDF en Facebook
+- 10% Entrega en Canvas
 
 Esta calificación se convertirá en un 70% del parcial, siendo el resto, las tareas dejadas en la plataforma.
 Se tomarán en cuenta:
